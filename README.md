@@ -1,7 +1,7 @@
-# ruby
+# little-ruby
 
 progress of learning ruby
 
 ## gem of ruby
 
-The burning red?
+Shining Red
