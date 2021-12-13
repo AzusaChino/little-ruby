@@ -12,3 +12,11 @@ The progress of Learn Ruby, a refined script language.
 ## Objective
 
 Make ruby handy in daily work life.
+
+## Shortcut
+
+```bash
+gem update --system
+
+gem install `package`
+```
